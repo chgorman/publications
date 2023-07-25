@@ -48,3 +48,7 @@
  *  **Explicit Formulas for Algebraic Sigmoid Bonding Curves**  
     Report: [link](https://github.com/alicenet/.github/blob/main/docs/bonding_curve.pdf);
     [local copy](./other/Alice_2022_bonding_curve.pdf)
+
+ *  **Analysis of Integer Square Root Algorithms in Solidity**  
+    A more in-depth analysis of **Efficient Integer Square Roots in Solidity**  
+    [online copy](https://github.com/chgorman/isqrt-gas)
