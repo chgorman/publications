@@ -51,4 +51,4 @@
 
  *  **Analysis of Integer Square Root Algorithms in Solidity**  
     A more in-depth analysis of **Efficient Integer Square Roots in Solidity**  
-    [online copy](https://github.com/chgorman/isqrt-gas)
+    Report: [online copy](https://github.com/chgorman/isqrt-gas)
